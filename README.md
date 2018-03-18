@@ -31,8 +31,8 @@ Matrix Mutiplication Fast: A*B
 13203 9313 9347 13525 7295 
 10010 9448 11078 9540 6711 
 
-
 Time Ran; 5e-06s
+
 Matrix Mutiplication Slow: A*B
 9242 12412 14249 10002 9263 
 20508 15286 16640 16966 17051 
@@ -40,8 +40,8 @@ Matrix Mutiplication Slow: A*B
 13203 9313 9347 13525 7295 
 10010 9448 11078 9540 6711 
 
-
 Time Ran; 6e-06s
+
 Matrix Addition Fast: A+B 
 95 25 113 56 89 
 184 103 18 136 101 
@@ -49,8 +49,8 @@ Matrix Addition Fast: A+B
 65 178 96 108 60 
 126 102 164 44 118 
 
-
 Time Ran; 1.5e-05s
+
 Matrix Addition Slow: A+B
 95 25 113 56 89 
 184 103 18 136 101 
@@ -58,8 +58,8 @@ Matrix Addition Slow: A+B
 65 178 96 108 60 
 126 102 164 44 118 
 
-
 Time Ran; 5e-06s
+
 Scalar Mutiplication Slow: A*6
 360 6 552 114 204 
 528 528 0 372 570 
@@ -67,8 +67,8 @@ Scalar Mutiplication Slow: A*6
 330 546 162 264 66 
 228 204 420 60 162 
 
-
 Time Ran; 6e-06s
+
 Scalar Multipilcation Fast: A*6
 360 6 552 114 204 
 528 528 0 372 570 
@@ -76,8 +76,8 @@ Scalar Multipilcation Fast: A*6
 330 546 162 264 66 
 228 204 420 60 162 
 
-
 Time Ran; 1.3e-05s
+
 Scalar Addition Slow: A+6
 66 7 98 25 40 
 94 94 6 68 101 
@@ -85,14 +85,13 @@ Scalar Addition Slow: A+6
 61 97 33 50 17 
 44 40 76 16 33 
 
-
 Time Ran; 7e-06s
+
 Scalar Addition Fast: A+6
 66 7 98 25 40 
 94 94 6 68 101 
 7 68 43 66 59 
 61 97 33 50 17 
 44 40 76 16 33 
-
 
 Time Ran; 1e-05s
